@@ -9,7 +9,7 @@ I've created detailed instructions about the setup and parts used here: https://
 ## Software Setup
 
 * Install [Raspberry Pi OS Lite](https://www.raspberrypi.org/software/) on SD card
-* [Enable Wi-Fi and SSH](https://medium.com/@danidudas/install-raspbian-jessie-lite-and-setup-wi-fi-without-access-to-command-line-or-using-the-network-97f065af722e)
+* [Enable Wi-Fi and SSH](https://danidudas.medium.com/install-raspberry-os-configure-wi-fi-and-ssh-headless-without-a-keyboard-or-network-cable-3d4f9d383165)
 * Install SD card and power up Raspberry Pi
 * SSH (using [Putty](https://www.putty.org) or some other SSH tool) into the Raspberry and configure password and timezones
   * `passwd`
